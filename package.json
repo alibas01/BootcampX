@@ -1,0 +1,23 @@
+{
+  "name": "BootcampX",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alibas01/BootcampX.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alibas01/BootcampX/issues"
+  },
+  "homepage": "https://github.com/alibas01/BootcampX#readme",
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
+}
